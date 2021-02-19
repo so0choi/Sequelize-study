@@ -1,0 +1,2 @@
+# Sequelize-study
+study sequelize
