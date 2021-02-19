@@ -1,0 +1,14 @@
+{
+  "name": "sequelize_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sy choi",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "global": "^4.4.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0",
+    "sequelize-cli": "^6.2.0"
+  }
+}
